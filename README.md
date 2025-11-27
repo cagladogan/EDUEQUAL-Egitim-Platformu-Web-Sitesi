@@ -26,4 +26,4 @@ CSS3
 
 Bootstrap 5
 
-JavaScript (Vanilla JS)
+JavaScript 
